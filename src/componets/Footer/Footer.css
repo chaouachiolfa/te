@@ -1,0 +1,22 @@
+
+.footer{
+    display :flex;
+    justify-content: center;
+   width:100% ;
+   margin-top:210px ;
+   background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,212,45,1) 100%);
+ 
+   
+  
+
+}
+.icon{
+    margin-left:10px ;
+}
+p{
+    color: brown;
+}
+p:hover{
+    color: aqua;
+}

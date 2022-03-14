@@ -1,0 +1,67 @@
+
+.mb-3{
+    
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    height:100%;
+    margin-left:300px;
+    border:solid,10px ;
+   
+    
+}
+.title{
+    
+    display :flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+    color:blue;
+    
+    
+    
+    
+
+    
+
+}
+
+.chek{
+    margin-left: 130px;
+    background: black;
+}
+.sub{
+    
+    border-radius:20px ;
+    width: 100px;
+    margin-left:40%;
+    
+    
+  
+}
+h1{
+    text-align: center;
+   color: rgb(42, 99, 165);
+   
+   
+  
+}
+h1:hover{
+    color: aqua;
+}
+
+
+.for{
+    width:100px;
+    margin-right: 50px;
+}
+
+
+html{
+    background-color: black;
+}
+div{
+    background: black;
+}
+
+
